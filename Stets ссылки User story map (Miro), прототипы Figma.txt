@@ -1,7 +1,6 @@
 Miro: Карта пользовательских историй:
 
-https://miro.com/app/board/uXjVLwH0TlQ=/?share_link_id=804777384945
-
+https://miro.com/app/board/uXjVIzJXPuk=/?share_link_id=357530334371
 
 
 Figma: Интерактивные прототипы пользовательского ирнтерфейса
